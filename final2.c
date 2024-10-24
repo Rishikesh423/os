@@ -5,7 +5,7 @@
 #include<stdlib.h>
 void main()
 {
- printf(" Rishikesh R\n1AY23AI094\n");
+ printf(" NAME \n USN \n");
  char *cmnd="ls";
  char *arg_list[]={"ls","-l",NULL};
  printf("Before execvp()\n");
